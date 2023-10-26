@@ -1,4 +1,4 @@
 Flask==1.1.2
 flask-restx==0.5.1
 requests==2.25.1
-urllib3==1.26.5
+urllib3==1.26.18
